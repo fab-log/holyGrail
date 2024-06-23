@@ -1,2 +1,29 @@
 # holyGrail
-Holy Grail Exercise from the full stack developer course by MIT xPRO
+## Holy Grail Exercise from the full stack developer course by MIT xPRO
+Prequesites:
+- npm installed on your machine
+- docker installed on your machine
+
+To run the app clone the repository navigate to the corresponding folder in your terminal and type the following commands
+
+```
+systemctl start docker
+
+npm init
+
+npm i
+```
+    
+to install all required packages. Finally start the application by typing
+
+```
+node index.js
+```
+    
+Now you can open the app in your browser calling 
+
+```
+http://localhost:3000
+```
+
+The application is used to demonstrate how multiple app components can refer to a common data base and offer synchronised functionality. Start ba clicking the plus and minus icons.
