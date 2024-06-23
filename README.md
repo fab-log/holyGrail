@@ -31,3 +31,5 @@ http://localhost:3000
 ```
 
 The application is used to demonstrate how multiple app components can refer to a common data base and offer synchronised functionality. Start by clicking the plus and minus icons.
+
+![screenshot](https://github.com/fab-log/holyGrail/blob/main/screenshot.png)
