@@ -1,10 +1,10 @@
 # holyGrail
-## Holy Grail Exercise from the full stack developer course by MIT xPRO
+## Holy Grail exercise from the full stack developer course by MIT xPRO
 Prequesites:
 - npm installed on your machine
 - docker installed on your machine
 
-To run the app clone the repository navigate to the corresponding folder in your terminal and type the following commands
+To run the app clone the repository, navigate to the corresponding folder in your terminal and type the following commands
 
 ```
 systemctl start docker
