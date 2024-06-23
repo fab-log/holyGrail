@@ -7,8 +7,12 @@ Prequesites:
 To run the app clone the repository, navigate to the corresponding folder in your terminal and type the following commands
 
 ```
-systemctl start docker
+sudo systemctl start docker
+```
 
+In a new terminal window navigate to the same application folder again and type
+
+```
 npm init
 
 npm i
