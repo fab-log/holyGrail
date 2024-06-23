@@ -26,4 +26,4 @@ Now you can open the app in your browser calling
 http://localhost:3000
 ```
 
-The application is used to demonstrate how multiple app components can refer to a common data base and offer synchronised functionality. Start ba clicking the plus and minus icons.
+The application is used to demonstrate how multiple app components can refer to a common data base and offer synchronised functionality. Start by clicking the plus and minus icons.
