@@ -1,0 +1,39 @@
+.grid{
+    display: grid;
+    grid-template-columns: 200px 1fr 200px;
+    grid-template-rows: auto 1fr auto;
+    gap: 5px;
+    height: 90vh;
+}
+.section{
+  font-size: 2em;
+  font-weight: 800;
+}
+header, aside, article, footer{
+  padding: 12px;
+  border-radius: 12px;
+    font-size: 1em;
+}
+aside{
+  background: hsl(120, 45%, 79%);    
+}
+article{
+  background: hsl(348, 50%, 90%);    
+}
+header, footer{
+  grid-column: 1 / 4;
+  background: hsl(209, 45%, 78%);    
+}
+
+body{
+  background-color: hsl(0, 0%, 24%);
+  font-family: Arial;
+}
+button{
+    font-size: 1em;
+}
+img{
+  margin-right: 12px;
+  height: 32px;
+  width: 32px;
+}
